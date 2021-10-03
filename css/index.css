@@ -1,0 +1,30 @@
+.col-md-12{
+	background-image: linear-gradient(to bottom right, #120a8f, #00569d,#1e90ff);
+	width:100%;
+	height:100%;
+	position:absolute;
+}
+.col-md-5{
+	margin-top:2%;
+	margin-left:50%;
+	transform: translateX(-32%);
+	color:#fff;
+	font-size:25px;
+}
+.box_register{
+	left:50%;
+	top:50%;
+	position:relative;
+	transform: translate(-50%, 50%);
+	background:#fff;
+	border-radius:13px;
+
+}
+.botao{
+	margin-left:50%;
+	transform: translateX(-50%);
+	border-radius:13px;
+}
+.input{
+	border-radius:13px;
+}
